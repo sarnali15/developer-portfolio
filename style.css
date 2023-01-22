@@ -13,6 +13,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .half-width {
@@ -36,4 +37,10 @@ section {
 .top-bann {
     background-image: url(images/photo_2023-01-06_22-01-27.jpg);
     background-repeat: no-repeat;
+}
+
+.dream-big {
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
 }
